@@ -1,0 +1,12 @@
+# 内容：PT直连
+#域名匹配（tracker）
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.pterclub.com
+DOMAIN,pt.hd4fans.org
+# 域名关键字匹配
+DOMAIN-KEYWORD,
+# 域名后缀匹配
+DOMAIN-SUFFIX,sddzz-xiao.top
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+
